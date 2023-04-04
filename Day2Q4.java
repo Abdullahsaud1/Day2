@@ -28,7 +28,7 @@ public class Day2Q4 {
 		else {
 		System.out.println("no number");
 	}
-		System.out.println("Please enter the  number");
+		
 	}
 	}
 

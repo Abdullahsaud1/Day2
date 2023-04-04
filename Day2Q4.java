@@ -19,15 +19,13 @@ public class Day2Q4 {
 		else if(z>x && z>y ) {
 		            System.out.println(" The largest number is : "  +z);
 		
-	}  else if (x == y && x== z) {
+	}  else if (z>= y && z>= x) {
 		System.out.println("equal number ");
 		
 	}
 		
 		
-		else {
-		System.out.println("no number");
-	}
+	
 		
 	}
 	}
